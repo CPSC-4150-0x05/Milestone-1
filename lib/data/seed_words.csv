@@ -1,0 +1,221 @@
+id,list_id,priority,category,word,sentence1,sentence2,sentence3
+1,1,1,Pre-Primer,the,There is a cat in the woods.,The cat runs fast.,The cat is white.
+2,1,1,Pre-Primer,and,The plane goes up and down.,My mom and dad were waiting for me.,You can see the moon and the stars. 
+3,1,1,Pre-Primer,to,I went to the pool.,I have to go grab the ball., He's on the way to the park. 
+4,1,1,Pre-Primer,a,I saw a cat today.,I have a band-aid on my knee.,There is a ladybug on the leaf.
+5,1,1,Pre-Primer,I,I need to take a nap.,I nap during the day when I'm tired.,I played at the park today.
+6,1,1,Pre-Primer,you,Where are you hiding?,You showed up late today.,How are you feeling?
+7,1,1,Pre-Primer,it,It hurt when I fell down.,It is raining outside today.,It is a red balloon.
+8,1,1,Pre-Primer,in,The movie is set in the future.,Its cold in the room.,How for are you in the book?
+9,1,1,Pre-Primer,said,I said my name was Emily.,She said to call her later.,He said he has a dog not a cat.
+10,1,1,Pre-Primer,for,I went looking for some snacks.,He bought a book for his brother.,We were waiting for an hour.
+11,1,1,Pre-Primer,up,His birthday was coming up.,Theres a house up on the hill.,How high up do balloons float?
+12,1,1,Pre-Primer,look,The clouds look like a jellyfish.,Look at he red ball.,You look nice today.
+13,1,1,Pre-Primer,is,What is a noun?,He is giving her a blue hat.,When is your birthday?
+14,1,1,Pre-Primer,go,I want to go to the pool.,We go to school on the bus.,Where do you want to go?
+15,1,1,Pre-Primer,we,We went fishing on Saturday.,What are we going to do?,We both went to the movies.
+16,1,1,Pre-Primer,little,The bird was very little.,I used to be scared of the dark when I was little.,I got very little sleep last night.
+17,1,1,Pre-Primer,down,I need to calm down.,The ball rolled down the hill.,How far down does the hole lead?
+18,1,1,Pre-Primer,can,Can I see you on Sunday?,How far can you throw the ball?,The soup was stored in a tin can.
+19,1,1,Pre-Primer,see,I use my eyes to see.,I can't wait to see you on Sunday.,Do you see that bird building its nest?
+20,1,1,Pre-Primer,not,The books are not here.,She will not be in class today.,They do not get along.
+21,1,1,Pre-Primer,one,There was only one bag left.,I have one more cookie.,My dog is bigger than the other one.
+22,1,1,Pre-Primer,my,I like my cat.,This is my sister.,My dog is very pretty.
+23,1,1,Pre-Primer,me,She gave me her last cookie.,Can you pass me the ball?,Dad brought me to the park.
+24,1,1,Pre-Primer,big,I see a big elephant.,Her house is very big compared to mine.,My dollhouse is pretty big.
+25,1,1,Pre-Primer,come,Do you want to come over?,The bird will come back to its nest.,Please come and sit next to me.
+26,1,1,Pre-Primer,blue,My favorite color is blue.,The blue bird is very pretty.,What has you feeling so blue?
+27,1,1,Pre-Primer,red,Red roses are my favorite.,Red is my favorite color.,I always use red on my drawings.
+28,1,1,Pre-Primer,where,Where did your sister go?,Can you tell me where the library is?,Where did I put my shoes.
+29,1,1,Pre-Primer,jump,The frog can jump really high.,Can you jump over that puddle?,I play jump rope all the time.
+30,1,1,Pre-Primer,away,The birds flew away.,How far away are we?,Can you put your toys away?
+31,1,1,Pre-Primer,here,Here is your present.,I'm here to help.,It's cold down here.
+32,1,1,Pre-Primer,help,Can you help me find my parents?,I help my mom cook dinner.,Can you help me find my toy?
+33,1,1,Pre-Primer,make,I can't make it to your birthday.,Lets make a birthday cake for mom.,Can you make a sandwich for me?
+34,1,1,Pre-Primer,yellow,Yellow is one of my favorite colors.,The flowers are yellow.,Look at the yellow on that caterpillar.
+35,1,1,Pre-Primer,two,I wanted two dogs.,My younger brother is two years old.,I had two friends over yesterday.
+36,1,1,Pre-Primer,play,I want to play on the playground.,My friend came over yesterday to play.,My sister was in a school play.
+37,1,1,Pre-Primer,run,I like to run around outside.,We had to run a lot during tag.,I love to run after my dog in the backyard.
+38,1,1,Pre-Primer,find,Can you help me find my toy?,She will find the answer to the riddle.,Lets find a new book to read.
+39,1,1,Pre-Primer,three,The three little pigs is my favorite story.,There are three dogs in my house.,I have three siblings.
+40,1,1,Pre-Primer,funny,He's a very funny guy.,He told a funny story.,A funny thing happened yesterday.
+41,2,2,Primer,he,He had a cute dog.,He likes to play soccer.,He has a blue shirt.
+42,2,2,Primer,was,I was happy to see my friends.,It was a sunny day yesterday.,The little boy was eating an apple.
+43,2,2,Primer,that,That is my dog.,Can you see the bird in that tree.,That was a fun game.
+44,2,2,Primer,she,She is my sister.,She likes to play volleyball.,She is wearing a red shirt.
+45,2,2,Primer,on,This book is on sale.,I hope my package arrives on time.,I'm going on a trip next week.
+46,2,2,Primer,they,They are playing in the park.,They are my friends.,They like to eat pizza for dinner.
+47,2,2,Primer,but,I like pizza but not mushrooms.,Its sunny but cold outside.,I want to play but need to do homework first.
+48,2,2,Primer,at,The cat is at the door.,We can meet at noon.,She is looking at the tree.
+49,2,2,Primer,with,I like to play with my dog.,I went on a trip with my family.,Can I have some milk with my cookies?
+50,2,2,Primer,all,We have all these toys.,That is all my homework.,All the kids want to go outside.
+51,2,2,Primer,there,I drove the kids there.,We are almost there.,Go to your room and stay there.
+52,2,2,Primer,out,The lights went out.,He looked out the window.,We went out to play.
+53,2,2,Primer,be,The weather will be sunny tomorrow.,He must be tired.,I want to be nice when I'm older.
+54,2,2,Primer,have,Do you have an umbrella?,I have something in my pocket.,Do you have another candy?
+55,2,2,Primer,am,How old am I?,I am ten years old.,I am feeling very happy.
+56,2,2,Primer,do,What did you do?,Do you want a snack?,Do you like to draw?
+57,2,2,Primer,did,What did you do?,Did you go to the park today?,Did you pack a lunch today?
+58,2,2,Primer,what,What did you do on Saturday?,What pets do you have?,What was your name?
+59,2,2,Primer,so,He was tired so he went to bed early.,I was hungry so I ate a snack,The dog wagged its tail so I knew it was happy.
+60,2,2,Primer,get,Can I get a glass of water?,What did you get for your birthday?,Do I need to get dressed?
+61,2,2,Primer,like,I like books.,I like the rain.,Do you like to play on the swings?
+62,2,2,Primer,this,This is a ball.,This is my favorite dress.,This is my cat.
+63,2,2,Primer,will,Will you be coming over tomorrow?,We will sing a song.,They will eat dinner together.
+64,2,2,Primer,yes,I hope the answer is yes.,The answer is yes or no.,She said yes.
+65,2,2,Primer,now,I'm going to read a story now.,My son is now as tall as I am.,Tom is now playing the violin.
+66,2,2,Primer,no,There are no more crayons in the box.,No one is in the room.,My brother said no to sharing his toys.
+67,2,2,Primer,came,The dog came over with a ball.,My mom came to the school to pick me up.,A friend came over to play after school. 
+68,2,2,Primer,ride,She learned how to ride a horse.,I love to ride my bike in the park.,Let's go ride the roller coaster.
+69,2,2,Primer,into,The children ran into the room.,She put her toys into the toy box.,The dog ran into the backyard.
+70,2,2,Primer,good,You did a good job today.,You are very good at drawing.,I got a good grade in class today.
+71,2,2,Primer,want,I want to go play outside.,Do you want a snack?,She wants a piece of cake.
+72,2,2,Primer,too,I want some ice cream too!,The book was too long for me to read.,You have too many toys.
+73,2,2,Primer,pretty,The flowers are very pretty.,You look so pretty in that dress.,We have to leave pretty soon.
+74,2,2,Primer,four,Cats have four legs.,I have four red balloons.,I am four years old.
+75,2,2,Primer,saw,I saw a dog in the park.,She saw a butterfly on the flower.,He saw several fish in the lake.
+76,2,2,Primer,well,I slept very well last night.,He is a well-known singer.,I hope you get well soon.
+77,2,2,Primer,ran,My dog ran to fetch the ball.,We ran on the playground.,The children ran inside when it started raining.
+78,2,2,Primer,brown,The teddy bear is brown.,My dad has brown hair.,The puppy has floppy brown ears.
+79,2,2,Primer,eat,You should eat your vegetables.,Let's eat lunch together.,Are you ready to eat dinner?
+80,2,2,Primer,who,Who wants to play outside?,Who took my pen?,Who left the front door open.
+81,2,2,Primer,new,I just got a new toy.,My shoes are brand new.,He is a new student in my class.
+82,2,2,Primer,must,I must finish my homework before I go play.,We must be quiet in the library.,She must be respectful to her teacher.
+83,2,2,Primer,black,My favorite color is black.,The crow has black feathers.,The zebra has black and white stripes.
+84,2,2,Primer,white,The zebra has black and white stripes.,My favorite color is white.,Polar bears have white fur.
+85,2,2,Primer,soon,Christmas is coming soon.,I'll be back soon.,The show will start soon.
+86,2,2,Primer,our,This is our house.,We will do our best on the test.,We see with our eyes.
+87,2,2,Primer,ate,I ate a sandwich for lunch.,We ate pizza for dinner last night.,The cat ate all its food.
+88,2,2,Primer,say,Can you say please?,Let's say goodbye before we leave.,What did you say?
+89,2,2,Primer,went,I went to the park yesterday.,She went to the zoo with her family.,The dog went outside to play.
+90,2,2,Primer,are,You are a good friend.,The dogs are barking.,Those are my favorite toys.
+91,2,2,Primer,under,The cat is hiding under the table.,The ball rolled under the sofa.,You can see the fish swimming under the water.
+92,2,2,Primer,please,Please clean your room.,Could you please be quiet for a minute.,Please put your toys away.
+93,3,3,FirstGrade,of,I ate a piece of cake.,He is a friend of mine.,The sky is full of stars.
+94,3,3,FirstGrade,his,These are his apples.,Can I use his car?,This is his school.
+95,3,3,FirstGrade,had,I had a great time at the park.,She had pizza for dinner last night.,He had a lot of fun playing with his friends.
+96,3,3,FirstGrade,him,I gave him a sandwich for lunch.,The dog ran to him when he came home.,I watched him ride his new bike.
+97,3,3,FirstGrade,her,Ann always keeps her room clean.,Her mother bought her a new dress.,She likes to play with her ball.
+98,3,3,FirstGrade,some,Would you like some more cookies.,I have some red crayons.,Some of the birds are singing.
+99,3,3,FirstGrade,as,My brother is as tall as me.,The cat is as fluffy as a cloud.,She acted as our tour guide at the museum.
+100,3,3,FirstGrade,then,Can you finish by then.,Alex went to school then came home.,We ate a snack and then he went to play.
+101,3,3,FirstGrade,could,Could you please hand me that pencil?,I wish I could have gone with you.,She could feel her heart racing.
+102,3,3,FirstGrade,when,Recess starts when the bell rings.,When are we going out to eat?,I remember climbing this tree when I was younger.
+103,3,3,FirstGrade,were,The waves were really big.,They were late to class today.,The pizzas were hot.
+104,3,3,FirstGrade,them,I saw them at the park earlier today.,The teacher handed them their papers.,We invited them to join us for lunch.
+105,3,3,FirstGrade,ask,Can I ask a question?,Ask your friend if they can come over.,I will ask mom for a cookie.
+106,3,3,FirstGrade,an,I saw an elephant at the zoo.,We need an umbrella in case it rains.,She ate an orange at lunch today.
+107,3,3,FirstGrade,over,The bird flew over the house.,The cat jumped over the fence.,The bridge goes over the river.
+108,3,3,FirstGrade,just,I want just a little bit of cake.,She just finished her homework.,It was just a joke.
+109,3,3,FirstGrade,from,This necklace is from my mom.,I can see the tree from the window.,The book is different from the movie.
+110,3,3,FirstGrade,any,If you need any help let me know.,He came to class without any paper.,Do you have any gum?
+111,3,3,FirstGrade,how,How are you feeling today?,Can you show me how to draw.,How many cookies are left.
+112,3,3,FirstGrade,know,Do you know how to swim?,She knows a lot about chemistry.,I'll let you know when the movie starts.
+113,3,3,FirstGrade,put,Put your toys in the toy box.,I put my hands on the table.,Put your hat on before you go outside.
+114,3,3,FirstGrade,take,Take off your shoes when you come inside.,Please take a seat.,Can you take a picture of us.
+115,3,3,FirstGrade,every,I have coffee every morning.,She walks home from school every day.,Every student needs to take the exam on Friday.
+116,3,3,FirstGrade,old,He was wearing an old hat.,He rented an old black and white movie.,She wore an old pair of jeans.
+117,3,3,FirstGrade,by,The ball rolled by my feet.,I finished drawing by lunchtime.,The cat sat by the window.
+118,3,3,FirstGrade,after,Can we have dessert after dinner?,We can talk after the meeting.,He met up with me after class.
+119,3,3,FirstGrade,think,I think I left my bag in the car.,I think we all did a great job.,I don't think he's at school today.
+120,3,3,FirstGrade,let,My parents let me stay up late.,Let him have a turn on the swings.,Don't let that happen again.
+121,3,3,FirstGrade,going,I am going to play outside.,She is going to the park with her friend.,He is going to learn how to ride a bike.
+122,3,3,FirstGrade,walk,Let's go for a walk in the park.,I like to walk to school.,We can walk home from the playground.
+123,3,3,FirstGrade,again,I'll see you again later today.,He knocked on the door again.,Can we do this again tomorrow?
+124,3,3,FirstGrade,may,May I borrow your crayon.,May you have a happy birthday.,She may be tired from playing.
+125,3,3,FirstGrade,stop,Can you stop walking in front of me?,We had to stop the game due to the rain.,The stop sign was located at the corner.
+126,3,3,FirstGrade,fly,The birds fly high in the sky.,Let's go to the park and fly a kite.,There was a fly in the room.
+127,3,3,FirstGrade,round,The ball is round and fun to play with.,The girl's eyes are big and round.,We looked at the round moon in the sky.
+128,3,3,FirstGrade,give,I will give you a hug.,We give gifts on birthdays.,Can you give me a hand?
+129,3,3,FirstGrade,once,I visit my grandparents once a week.,He once had a pet lizard.,The teacher explained the phrase once more.
+130,3,3,FirstGrade,open,Can you open the door for me?,She decided to open the window.,The store doesn't open until nine o'clock.
+131,3,3,FirstGrade,has,He has a blue car.,My dog has a long tail.,My sister has a new book.
+132,3,3,FirstGrade,live,The fish live in water.,They live near the beach.,I live in a small town.
+133,3,3,FirstGrade,thank,Thank you for my birthday gift.,I had to thank my neighbor for helping me.,Make sure to say thank you.
+134,4,4,SecondGrade,would,Would you please pass the salt?,Would you like to go to the park?,We would go to the pool every summer.
+135,4,4,SecondGrade,very,I'm very thankful for my friends.,The dog was very fluffy.,The sun was very bright.
+136,4,4,SecondGrade,your,Please wash your hands before you eat.,What is your favorite color?,Let's go to your house.
+137,4,4,SecondGrade,its,The dog wagged its tail.,The tree lost its leaves in the fall.,I can see its eyes.
+138,4,4,SecondGrade,around,The children sat around the table.,The Earth goes around the sun.,We drove around the neighborhood.
+139,4,4,SecondGrade,don't,Don't run in the house!,Please don't make a mess in the classroom.,Don't be late for school.
+140,4,4,SecondGrade,right,You got the answer right.,Turn right when you get to the library.,Your shoes are right here by the door.
+141,4,4,SecondGrade,green,The light turned green so we can go.,Green is one of my favorite colors.,I love laying on the green grass.
+142,4,4,SecondGrade,their,The kids put on their jackets.,It's their turn to use the swingset.,The students forgot their homework.
+143,4,4,SecondGrade,call,The teacher will call your name.,Can you call me after school?,Don't forget to call your friend tomorrow.
+144,4,4,SecondGrade,sleep,I need to go to sleep in ten minutes.,Can you go to sleep now?,I had a good nights sleep last night.
+145,4,4,SecondGrade,five,I have five more minutes until I need to leave.,My brother is five years old today.,Do you want to meet at five today?
+146,4,4,SecondGrade,wash,Don't forget to wash your hands.,Mom needs to wash my shirt since I spilled food on it.,Can you help me wash the dishes?
+147,4,4,SecondGrade,or,Do you want to play inside or outside?,Do you like milk or juice better?,Do you have a cat or a dog?
+148,4,4,SecondGrade,before,I need to brush my teeth before bed.,She left before the bell rung.,Finish dinner before you have dessert.
+149,4,4,SecondGrade,been,I have been to the park.,She has been a good friend to me.,It has been a fun day.
+150,4,4,SecondGrade,off,The dog ran off to chase the squirrel.,He took off his shoes at the door.,Can you turn off the lights?
+151,4,4,SecondGrade,cold,My dad has an old car.,The old man has a long beard.,I am ten years old.
+152,4,4,SecondGrade,tell,Did you tell mom what happened?,He wants to tell us a joke.,The gps tells us when to turn.
+153,4,4,SecondGrade,work,Dad had to leave for work this morning.,We should work together for this assignment.,I like to work on my art.
+154,4,4,SecondGrade,first,We should clean our room first.,I came in first place in the race.,I was the first to finish my drawing.
+155,4,4,SecondGrade,does,Does your brother like ice cream?,Does she ride the bus to school.,She does her homework every night.
+156,4,4,SecondGrade,goes,He goes to school every day.,She goes to the park with her friends.,Mom goes to work every morning.
+157,4,4,SecondGrade,write,She wants to write a story.,He likes to write with a blue pen.,He writes in his journal daily.
+158,4,4,SecondGrade,always,Always wear a helmet on your bike.,We always go to the park on Saturdays.,I will always love the sunset.
+159,4,4,SecondGrade,made,I made a sandcastle at the beach.,We made cookies in the kitchen.,The house is made of bricks.
+160,4,4,SecondGrade,gave,The teacher gave us extra homework.,The girl gave the puppy some water.,I gave my mom a hug goodnight.
+161,4,4,SecondGrade,us,The dog will follow us to the park.,He asked us to help him clean up.,She showed us how to draw a flower.
+162,4,4,SecondGrade,buy,I want to buy a new toy.,Dad is going to buy us ice cream.,Can you buy the tickets for the movie.
+163,4,4,SecondGrade,those,Those are my crayons.,Those apples look yummy.,Those hills look beautiful in the winters.
+164,4,4,SecondGrade,use,You can use this pen.,He used the dictionary.,May I use your laptop.
+165,4,4,SecondGrade,fast,The cheetah runs very fast.,The students run very fast.,She can swim fast.
+166,4,4,SecondGrade,pull,Don't pull on the cat's tail.,Can you pull the door open for me.,I pulled my friend into my house.
+167,4,4,SecondGrade,both,Please give me both the red crayons.,My parents are both at the grocery store.,I love both my dog and my cat.
+168,4,4,SecondGrade,sit,The children sit on the floor.,Let's sit and read a book.,Please sit down on the couch.
+169,4,4,SecondGrade,which,Which color is your favorite?,Which way is the park from here?,Which of these toys are yours?
+170,4,4,SecondGrade,read,I can read the words in my book.,She will read the rules to us.,Mom reads me a story at night.
+171,4,4,SecondGrade,why,Why is the sky blue?,Why don't we go to the park?,Why do you want to leave early?
+172,4,4,SecondGrade,found,I found my favorite toy under the bed.,He found a note in his lunchbox.,We found a pretty shell on the beach.
+173,4,4,SecondGrade,because,The sky is gray because it is cloudy.,The cat is sleeping by the fire because it is warm.,I'm wearing a coat because it is warm.
+174,4,4,SecondGrade,best,My best friend is coming over to play today.,The best cookies are the chocolate chip ones.,Mom packed the best sandwich for lunch.
+175,4,4,SecondGrade,upon,The butterfly landed gently upon the flower.,She carefully placed the book upon the shelf.,The cat jumped upon the table.
+176,4,4,SecondGrade,these,These red balls are for the carnival game.,These flowers smell so nice.,These are my new crayons.
+177,4,4,SecondGrade,sing,I like to sing songs.,The birds sing in the morning.,He will sing a song for us.
+178,4,4,SecondGrade,wish,I wish I had a puppy.,I wish it would snow today.,I wish I was taller.
+179,4,4,SecondGrade,many,I have many friends in my class.,There are many books on the shelf.,We saw many birds in the park.
+180,5,5,ThirdGrade,if,If it snows we will play outside.,You can have dessert if you finish dinner.,If it is sunny we will go to the park.
+181,5,5,ThirdGrade,long,The snake was long and green.,We will take a long nap.,It was a long day at school today.
+182,5,5,ThirdGrade,about,I am thinking about my friends.,Let's talk about our day.,I have a question about the book.
+183,5,5,ThirdGrade,got,I have got a blue crayon.,They have got two big dogs.,He has got a red ball.
+184,5,5,ThirdGrade,six,I have six crayons in my box.,We ate six cookies after school.,The cat has six spots.
+185,5,5,ThirdGrade,never,He never agreed to join us.,I will never forget your kindness.,I've never seen such a large whale.
+186,5,5,ThirdGrade,seven,She ate seven grapes for a snack.,The rainbow has seven colors.,Seven ducks swam in a row.
+187,5,5,ThirdGrade,eight,My sister is eight years old.,The spider has eight legs.,There are only eight cookies left.
+188,5,5,ThirdGrade,today,Today is a sunny day.,We can go to the park today.,Today is my turn to pick a game.
+189,5,5,ThirdGrade,myself,I play with my toys by myself.,I brush my teeth by myself.,I made this picture all by myself.
+190,5,5,ThirdGrade,much,The new car is much better than the old one.,The party was so much fun.,I didn't get much sleep last night.
+191,5,5,ThirdGrade,keep,Please keep the toys in the toy box.,Keep your hands to yourself.,Let's keep the room clean.
+192,5,5,ThirdGrade,try,I can try and read this book.,Let's try and build a block tower.,Try on my hat.
+193,5,5,ThirdGrade,start,I can start my homework now.,The race will start in five minutes.,The new school year is about to start.
+194,5,5,ThirdGrade,ten,Can you count to ten?,I have ten stuffed animals.,There are ten crayons left in the box.
+195,5,5,ThirdGrade,bring,Can I bring a friend to the party?,Please bring me a glass of water.,Don't forget to bring your homework.
+196,5,5,ThirdGrade,drink,I drink water in the morning.,Can I have some juice to drink?,Do you have anything to drink?
+197,5,5,ThirdGrade,only,She is the only child in the family.,It's only a short walk from here.,The store is only open on the weekends.
+198,5,5,ThirdGrade,better,I like the red ball better than the blue ball.,You'd better finish your homework before you play.,My drawing skills have gotten better.
+199,5,5,ThirdGrade,hold,Please hold my hand so you don't get lost.,Hold on to the balloon.,Hold the paintbrush very carefully.
+200,5,5,ThirdGrade,warm,The sun is warm and bright today.,The hot cocoa will make me feel warm inside.,It was very warm by the fireplace.
+201,5,5,ThirdGrade,full,The cup was full of juice.,Mom's arms were full of groceries.,The book was full of exciting adventures.
+202,5,5,ThirdGrade,done,I have done my homework.,He has done a good job.,Have you done all your schoolwork?
+203,5,5,ThirdGrade,light,The sun gives off a lot of light.,The light in the room was very bright.,Can you turn the light on?
+204,5,5,ThirdGrade,pick,I will pick up my toys.,Will you come with me to pick flowers?,Let's pick a book to read.
+205,5,5,ThirdGrade,hurt,I hurt my knee when I fell.,I'm sorry if I hurt your feelings.,Be careful you don't hurt anyone.
+206,5,5,ThirdGrade,cut,Mom used scissors to cut up the paper.,I cut my finger when making lunch.,Can you cut my hair?
+207,5,5,ThirdGrade,kind,She is always kind to her friends.,The teacher gave us kind feedback on our projects.,Please be kind to your brother.
+208,5,5,ThirdGrade,fall,The fall leaves are very pretty.,I watched the apple fall from the tree.,More snow will fall tonight.
+209,5,5,ThirdGrade,carry,Can you help me carry the groceries inside?,The dog will carry his ball to his owner.,The bird will carry the worm to its nest.
+210,5,5,ThirdGrade,small,The bird is very small.,This is a small piece of cake.,The small cat hid under the table.
+211,5,5,ThirdGrade,own,She wants to have her own room.,He has his own work to do.,This is my own lunchbox.
+212,5,5,ThirdGrade,show,Can I show you my new toy?,The colorful leaves show that it is fall.,Can you show me how to draw that cat?
+213,5,5,ThirdGrade,hot,It is hot outside today.,Can you make me some hot chocolate.,The sidewalk was hot under my feet.
+214,5,5,ThirdGrade,far,The dog wandered far from home.,That's a really far side of the street.,So far i've only drawn one picture.
+215,5,5,ThirdGrade,draw,The child likes to draw.,Can you draw a picture of me?,Let's draw our favorite animals.
+216,5,5,ThirdGrade,clean,I have to clean my room.,Please brush your teeth to keep them clean.,I need to clean my hands after playing outside.
+217,5,5,ThirdGrade,grow,This seed will grow into a big plant.,I want to be a cook when I grow up.,We grow vegetables in our garden.
+218,5,5,ThirdGrade,together,Let's eat lunch together today.,Let the team work together.,The kids play in the park together.
+219,5,5,ThirdGrade,shall,Shall we play a game?,Shall I help you with the homework?,What shall we have for lunch?
+220,5,5,ThirdGrade,laugh,Her happy laugh filled the room.,I heard a laugh in the distance.,The clown made the children laugh.
