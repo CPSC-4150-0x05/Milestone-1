@@ -55,28 +55,37 @@ class _ReadRightAppState extends State<ReadRightApp> {
     _loadSession();
   }
 
-  Future<void> _loadSession() async {
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      final savedEmail = prefs.getString('email');
-      final userId = prefs.getInt('userId');
-      final currentListId = await db.getUserListId(userId!);
-      if (savedEmail != null) {
-        final user = await DatabaseHelper.instance.getUserByEmail(savedEmail);
-        if (user != null) {
-          setState(
-            () => _home = user.role == 'teacher'
-                ? const DashboardScreen()
-                : ProgressScreen(listId: currentListId!),
-          );
-          return;
-        }
-      }
-    } catch (e) {
-      debugPrint('Error loading session: $e');
+Future<void> _loadSession() async {
+  try {
+    final prefs = await SharedPreferences.getInstance();
+    final savedEmail = prefs.getString('email');
+    final userId = prefs.getInt('userId');
+
+    // No saved login yet, go to login screen
+    if (savedEmail == null || userId == null) {
+      setState(() => _home = const LoginScreen());
+      return;
     }
+
+    final user = await DatabaseHelper.instance.getUserByEmail(savedEmail);
+
+    if (user == null) {
+      setState(() => _home = const LoginScreen());
+      return;
+    }
+
+    final currentListId = await db.getUserListId(userId);
+
+    setState(
+      () => _home = user.role == 'teacher'
+          ? const DashboardScreen()
+          : ProgressScreen(listId: currentListId ?? 1),
+    );
+  } catch (e) {
+    debugPrint('Error loading session: $e');
     setState(() => _home = const LoginScreen());
   }
+}
 
   @override
   Widget build(BuildContext context) {
