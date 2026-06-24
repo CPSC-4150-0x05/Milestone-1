@@ -10,9 +10,9 @@ import 'package:team_3_f25_project/screens/word_practice_page.dart';
 import 'package:team_3_f25_project/screens/signup.dart';
 import 'package:team_3_f25_project/services/user_db.dart';
 
-const supabaseUrl = 'https://gelfwoihoznpghcpfylf.supabase.co';
+const supabaseUrl = 'https://ewtkteekwuphxgeksiiy.supabase.co/rest/v1/';
 const supabaseKey =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdlbGZ3b2lob3pucGdoY3BmeWxmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjQ3OTc3MTUsImV4cCI6MjA4MDM3MzcxNX0.y8yPV32YatDe5VBE-u6pzfU0SmL9l2BnlW1NpIlfgVU';
+    'sb_publishable_s34XGOlJoDeP1juZMIDz8Q_VVSWuJQw';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
