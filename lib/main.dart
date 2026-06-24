@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -9,6 +10,8 @@ import 'package:team_3_f25_project/screens/progress_screen.dart';
 import 'package:team_3_f25_project/screens/word_practice_page.dart';
 import 'package:team_3_f25_project/screens/signup.dart';
 import 'package:team_3_f25_project/services/user_db.dart';
+import 'package:flutter/foundation.dart';
+import 'package:sqflite_common_ffi/sqflite_ffi.dart';
 
 const supabaseUrl = 'https://ewtkteekwuphxgeksiiy.supabase.co/rest/v1/';
 const supabaseKey =
@@ -16,6 +19,11 @@ const supabaseKey =
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+   if (!kIsWeb && (Platform.isWindows || Platform.isLinux || Platform.isMacOS)) {
+    sqfliteFfiInit();
+    databaseFactory = databaseFactoryFfi;
+  }
 
   // Initialize Supabase
   await Supabase.initialize(url: supabaseUrl, anonKey: supabaseKey);
